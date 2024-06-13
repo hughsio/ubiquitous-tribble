@@ -17,7 +17,7 @@ When I'm not coding or studying, I love to read about the latest trends in tech,
 
 - **Description:** The goal of this project is to develop a Python-based tool that can accurately gauge public sentiment by analyzing large volumes of social media data. This tool will be particularly useful for understanding public opinion on various subjects, ranging from brand perception to reactions to current events.
 -  **Technologies Used:** Python, Google Colab, Microsoft Copilot
--   *Code:** [VibeCheck](https://github.com/hughsio/VibeCheck)
+-  **Code:** [VibeCheck](https://github.com/hughsio/VibeCheck)
 
 ### Domain Inquiry Toolkit
 
