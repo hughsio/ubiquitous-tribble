@@ -1,5 +1,5 @@
 ---
-title: Welcome to Project Page
+title: Welcome, Stick Around.
 ---
 
 
@@ -40,9 +40,9 @@ I also maintain a blog where I write about my learning journey, interesting proj
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect. You can find me on:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** [hello@hughj.dev](mailto:hello@hughj.dev)
+- **LinkedIn:** [www.linkedin.com/in/hughjsmith](https://www.linkedin.com/in/hughjsmith/)
+- **GitHub:** [www.github.com/hughsio](https://github.com/hughsio)
 
-Thank you for visiting my GitHub Pages! 😊
+This page was created by GitHub Pages! 😊
 
